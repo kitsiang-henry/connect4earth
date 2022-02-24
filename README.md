@@ -16,4 +16,4 @@ The My Sustainability Journey section of C4E contains quiz questions and a resul
 
 ## About
 
-The About section provides information about C4E and the data source which has been used for creating flash flood-related visualisations in the dashboard.
+The About section provides information about C4E and the data source which is used for creating flash flood-related visualisations in the dashboard.
