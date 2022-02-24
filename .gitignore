@@ -1,0 +1,45 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/connect-4-earth
+/amplify
+/.pnp
+.pnp.js
+
+# files
+/src/components/quiz/components/QuizEarth.js
+/src/components/home/carousel/InstagramSection.js
+/src/components/home/animation/RainAnimation.js
+
+# assets
+/src/assets/8k_earth_clouds.jpg
+/src/assets/8k_earth_daymap.jpg
+/src/assets/8k_earth_nightmap.jpg
+/src/assets/8k_earth_normal_map.jpg
+/src/assets/8k_earth_specular_map.jpg
+/src/assets/rain.png
+/src/assets/sea-ocean.jpg
+/src/assets/pinetrees.jfif
+/src/assets/wave.png
+/src/assets/wave.svg
+/src/assets/sea.jpg
+/src/assets/wind.jpg
+/src/assets/windturbine2.jpg
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
